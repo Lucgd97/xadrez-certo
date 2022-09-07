@@ -5,9 +5,9 @@
 O jogo de xadrez foi feito na linguagem C# com orientação a objetos para desenvolver meu conhecimento na liguagem.
 
 Você consegue jogar uma partida de xadrez no gabarito:
-- Consegue ver os movimentos possíveis da peça selicionada
+- Consegue ver os movimentos possíveis da peça selicionada.
 - Saber o turno da jogada.
-- Consegue quais peças saíram jogo
+- Consegue quais peças foram capturadas.
 - Tem jogadas especiais do xadrez como " En Passant" e o Roque.
 
 ## Como jogar
