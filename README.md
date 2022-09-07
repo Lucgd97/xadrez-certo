@@ -15,9 +15,11 @@ Você consegue jogar uma partida de xadrez no gabarito:
 Um jogo muito simples e intuitivo até para quem não sabe jogar xadrex.
 
 Selecioane a coordenada da peça:
+
 ![image](https://user-images.githubusercontent.com/93284766/188945748-95156c37-4989-4741-8607-a1c6250e57b9.png)
 
 Escolha a coordenada do movimento possível:
+
 ![image](https://user-images.githubusercontent.com/93284766/188945952-5f7b8c45-991b-41ae-b224-29996a002dd7.png)
 
 Agora espere seu adivesário jogar e se divirta em busca do xeque mate.....
